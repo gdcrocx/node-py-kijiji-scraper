@@ -1,0 +1,29 @@
+{
+  "name": "node-py-kijiji-scraper",
+  "version": "1.0.0",
+  "description": "Nodejs Python Kijiji Scraper and Weeder scripts",
+  "main": "NodeKijijiScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdcrocx/node-py-kijiji-scraper.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Python",
+    "Kijiji",
+    "Web",
+    "Scraper"
+  ],
+  "author": "George Davis (@Gdcrocx)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdcrocx/node-py-kijiji-scraper/issues"
+  },
+  "homepage": "https://github.com/gdcrocx/node-py-kijiji-scraper#readme",
+  "dependencies": {
+    "kijiji-scraper": "^5.0.7"
+  }
+}
