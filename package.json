@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/gdcrocx/node-py-kijiji-scraper#readme",
   "dependencies": {
-    "kijiji-scraper": "^5.0.7"
+    "kijiji-scraper": "^5.1.1"
   }
 }
